@@ -1,5 +1,6 @@
 /* eslint-disable import/no-commonjs */
 
+
 const { execSync } = require('child_process');
 
 if (process.env.NODE_ENV === 'production') {
